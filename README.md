@@ -1,5 +1,6 @@
 # linux_study
 
- 此文件记录了学习Linux的笔记！
+ 此项目记载学习Linux的笔记，资料等！ 
+ 
 
  
